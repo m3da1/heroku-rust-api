@@ -1,0 +1,1 @@
+ACTIX_PORT=$PORT ./target/release/heroku-rust-api
