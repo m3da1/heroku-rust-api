@@ -4,7 +4,7 @@ use actix_web::{HttpRequest, Responder};
 use std::{io::Error, net::TcpListener};
 
 pub fn run(listner: TcpListener) -> Result<Server, Error> {
-    std::env::set_var("RUST_LOG", "actix_web=info");
+    std::env::set_var("RUST_LOG", "actix_web=debug");
     env_logger::init();
     let server = HttpServer::new(|| {
         App::new()
