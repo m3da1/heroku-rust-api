@@ -1,0 +1,12 @@
+/Users/m3d/Projects/Rust/heroku-rust-api/target/release/deps/httparse-cc64433a96a0b23b.rmeta: /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs
+
+/Users/m3d/Projects/Rust/heroku-rust-api/target/release/deps/libhttparse-cc64433a96a0b23b.rlib: /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs
+
+/Users/m3d/Projects/Rust/heroku-rust-api/target/release/deps/httparse-cc64433a96a0b23b.d: /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs
+
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs:

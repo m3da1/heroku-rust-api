@@ -1,0 +1,11 @@
+/Users/m3d/Projects/Rust/heroku-rust-api/target/release/deps/libtime_macros_impl-6dcf59c773ac4aac.dylib: /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/lib.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/date.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/ext.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/offset.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/mod.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/date.rs
+
+/Users/m3d/Projects/Rust/heroku-rust-api/target/release/deps/time_macros_impl-6dcf59c773ac4aac.d: /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/lib.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/date.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/ext.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/offset.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/mod.rs /Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/date.rs
+
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/lib.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/date.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/ext.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/offset.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/mod.rs:
+/Users/m3d/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/date.rs:

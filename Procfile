@@ -1,1 +1,1 @@
-ACTIX_PORT=$PORT ./target/release/heroku-rust-api
+web: ROCKET_PORT=$PORT ROCKET_ENV=prod ./target/release/heroku-rust-api
